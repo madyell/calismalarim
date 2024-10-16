@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Tetrisiyum",
+    "slug": "Tetrisiyum",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/tetris.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/tetris.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.madyel.Tetrisiyum"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "95081594-d4bb-4506-a62b-70a3bfe33ebd"
+      }
+    }
+  }
+}
